@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             edit <code>src/App.js</code> and save to reload!.
+            changed on feature branch
           </p>
           <a
             className="App-link"
